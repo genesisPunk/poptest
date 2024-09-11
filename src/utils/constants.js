@@ -1,5 +1,5 @@
 const constants = {
-  gameDuration: 10,
+  gameDuration: 30,
   gameCells: 6,
   balloonWidth: 120,
   threadHeight: 50,
